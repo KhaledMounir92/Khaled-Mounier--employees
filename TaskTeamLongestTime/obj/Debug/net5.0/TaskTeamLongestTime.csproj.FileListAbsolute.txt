@@ -1,0 +1,16 @@
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.exe
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.deps.json
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.runtimeconfig.json
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.runtimeconfig.dev.json
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.dll
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\ref\TaskTeamLongestTime.dll
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\bin\Debug\net5.0\TaskTeamLongestTime.pdb
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.csproj.AssemblyReference.cache
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.AssemblyInfoInputs.cache
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.AssemblyInfo.cs
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.csproj.CoreCompileInputs.cache
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.dll
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\ref\TaskTeamLongestTime.dll
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.pdb
+C:\Users\khaled\source\repos\TaskTeamLongestTime\TaskTeamLongestTime\obj\Debug\net5.0\TaskTeamLongestTime.genruntimeconfig.cache

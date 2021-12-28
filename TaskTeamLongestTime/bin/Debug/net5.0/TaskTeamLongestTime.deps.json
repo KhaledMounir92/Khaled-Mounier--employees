@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TaskTeamLongestTime/1.0.0": {
+        "runtime": {
+          "TaskTeamLongestTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskTeamLongestTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
